@@ -77,7 +77,7 @@
       {
         "_id": "62dfc735f7f9da29b0e98ed0",
         "name": "Postman server",
-        "baseUrl": "https://9d688355-247d-402b-807e-67df10b019a5.mock.pstmn.io",
+        "baseUrl": "http://localhost:3005/FT",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
         "updatedAt": "2022-08-15T07:21:21.545Z",
