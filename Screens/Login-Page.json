@@ -39,7 +39,7 @@
               "//": "Use this class to style grid layout component.",
               "padding": "5px",
               "spacing": 0,
-              "background": "url(http://presales2.avanzasolutions.com:8056/AmbitCorporateWeb/resources/admin/layout/img/login-back.jpg) fixed no-repeat",
+              "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
               "background-size": "cover",
               "height": "100vh"
             },
@@ -69,7 +69,7 @@
         "gridProps": [
           {
             "type": "column",
-            "id": "C743BOqgkmedk6cVPGCWJ",
+            "id": "aNiDFeyG0I5UpLq2yMAoI",
             "gridProps": [
               {
                 "type": "10001",
@@ -4524,7 +4524,7 @@
           "//": "Use this class to style grid layout component.",
           "padding": "5px",
           "spacing": 0,
-          "background": "url(http://presales2.avanzasolutions.com:8056/AmbitCorporateWeb/resources/admin/layout/img/login-back.jpg) fixed no-repeat",
+          "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
           "background-size": "cover",
           "height": "100vh"
         },
