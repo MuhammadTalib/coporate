@@ -92,9 +92,9 @@
         "_id": "62e240494b15d40b248e2322",
         "name": "loginlogo.png",
         "id": "KUbx9Htwqlp5XC_JNXgz9",
-        "url": "http://192.168.0.105:8196/assets/web/loginlogo.png",
-        "uri": "http://192.168.0.105:8196/assets/web/loginlogo.png",
-        "canvasUrl": "http://192.168.0.105:8196/assets/undefined"
+        "url": "http://localhost:8196/assets/web/loginlogo.png",
+        "uri": "http://localhost:8196/assets/web/loginlogo.png",
+        "canvasUrl": "http://localhost:8196/assets/undefined"
       }
     ]
   }

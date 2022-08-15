@@ -39,7 +39,7 @@
               "//": "Use this class to style grid layout component.",
               "padding": "5px",
               "spacing": 0,
-              "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
+              "background": "url(http://localhost:8196/assets/web/login-back.jpg) fixed no-repeat",
               "background-size": "cover",
               "height": "100vh",
               "overflowY": "scroll"
@@ -70,7 +70,7 @@
         "gridProps": [
           {
             "type": "column",
-            "id": "qsiX6VV45J20uvhgQTLez",
+            "id": "TULKXbxmnkG93aBIZNl4O",
             "gridProps": [
               {
                 "type": "10001",
@@ -4525,7 +4525,7 @@
           "//": "Use this class to style grid layout component.",
           "padding": "5px",
           "spacing": 0,
-          "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
+          "background": "url(http://localhost:8196/assets/web/login-back.jpg) fixed no-repeat",
           "background-size": "cover",
           "height": "100vh",
           "overflowY": "scroll"
