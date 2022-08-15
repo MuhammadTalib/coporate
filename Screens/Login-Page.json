@@ -41,7 +41,8 @@
               "spacing": 0,
               "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
               "background-size": "cover",
-              "height": "100vh"
+              "height": "100vh",
+              "overflowY": "scroll"
             },
             "mainContainer": "gridLayout"
           },
@@ -69,7 +70,7 @@
         "gridProps": [
           {
             "type": "column",
-            "id": "aNiDFeyG0I5UpLq2yMAoI",
+            "id": "qsiX6VV45J20uvhgQTLez",
             "gridProps": [
               {
                 "type": "10001",
@@ -4526,7 +4527,8 @@
           "spacing": 0,
           "background": "url(http://192.168.0.105:8196/assets/web/login-back.jpg) fixed no-repeat",
           "background-size": "cover",
-          "height": "100vh"
+          "height": "100vh",
+          "overflowY": "scroll"
         },
         "mainContainer": "gridLayout"
       },
