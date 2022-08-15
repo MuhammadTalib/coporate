@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "62dff840e6864b13b64050f1",
+    "gitBranchName": "Sprint1",
+    "id": "J52-Ub5Z_7fPI4YYS5OEu",
+    "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+    "Documentation": "<div>components 12344</div>",
+    "attributes": {
+      "label": "Text Box",
+      "name": "Text box",
+      "label-locale-key": "",
+      "maxLength": 20,
+      "type": "text",
+      "variant": "standard",
+      "value": "",
+      "readOnly": false,
+      "tooltip": "",
+      "font-family": "Verdana",
+      "mandatory": true,
+      "tooltipState": "",
+      "layoutProperties": {
+        "textField": { "//": "Use this class to style text field component." },
+        "inputProps": { "//": "Use this class to style  text field element." },
+        "mainContainer": "textField",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      },
+      "validate": { "required": false, "errorMsg": "This field is required" },
+      "placeholder": "",
+      "stateName": "wfwf"
+    },
+    "createdAt": "2022-07-26T14:20:47.987Z",
+    "createdBy": "haseeb",
+    "events": [],
+    "icon": "FaWindowMinimize",
+    "name": "Text Box",
+    "screenId": "p3oE5A_bH21qqKCTYe2ug",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20004",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  }
+]

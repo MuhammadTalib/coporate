@@ -1,0 +1,30 @@
+{
+  "createdBy": "talib",
+  "updatedBy": "talib",
+  "_id": "62e27ce44b15d40b248e2ce2",
+  "id": "2kudz1yS26XNSi3V1T244",
+  "name": "Login Screen to Homepage",
+  "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+  "gitBranchName": "Sprint1",
+  "services": [
+    {
+      "_id": "62f4d3eb72103b335c18c474",
+      "type": "1",
+      "command": {
+        "responseHandler": [],
+        "returns": [],
+        "_id": "62f4d3eb72103b335c18c475",
+        "attributes": {
+          "fromWidgetId": "LlfZFtzO4HKsi8SNk83C6",
+          "nextWidgetId": "r2GYIm_SabTQCUesudBwl",
+          "gridRadioValue": "Screen",
+          "editableForm": false
+        },
+        "type": "2"
+      }
+    }
+  ],
+  "createdAt": "28-Jul-2022",
+  "updatedAt": "11-Aug-2022",
+  "__v": 1
+}

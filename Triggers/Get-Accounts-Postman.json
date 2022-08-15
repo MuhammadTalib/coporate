@@ -1,0 +1,47 @@
+{
+  "createdBy": "talib",
+  "updatedBy": "talib",
+  "_id": "62ea39cbf5f7674f04de0abf",
+  "id": "6eeP4-bTakDsclJlwyl_2",
+  "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+  "gitBranchName": "Sprint1",
+  "name": "Get Accounts Postman",
+  "status": "ACTIVE",
+  "services": [
+    {
+      "_id": "62ea39cbf5f7674f04de0ac0",
+      "type": "8",
+      "command": {
+        "responseHandler": [],
+        "returns": [],
+        "_id": "62ea39cbf5f7674f04de0ac1",
+        "attributes": {
+          "loaderWidgetIds": [906070],
+          "messageWidgetIds": [906070],
+          "responseStateKey": "accounts",
+          "url": "/fetchAccountGET",
+          "checksum": true,
+          "encryption": true,
+          "isDeviceDetails": true,
+          "loginTrigger": false,
+          "formData": false,
+          "logoutTrigger": false,
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "channel_key": "001",
+            "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
+            "locale": "en-ltr"
+          },
+          "requestBody": [],
+          "baseURL": "62dfc735f7f9da29b0e98ed0",
+          "storeType": 2
+        },
+        "type": "1"
+      }
+    }
+  ],
+  "createdAt": "03-Aug-2022",
+  "updatedAt": "03-Aug-2022",
+  "__v": 0
+}

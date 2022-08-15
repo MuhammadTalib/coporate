@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectId": 1,
+  "config": {
+    "id": 1,
+    "name": "Ambit Corporate",
+    "version": "1.0.0",
+    "mainComponentId": "LlfZFtzO4HKsi8SNk83C6",
+    "locale": "en",
+    "appMode": "dev",
+    "globalErrorType": "INLINE",
+    "showWidgetError": true,
+    "showWidgetSuccess": true,
+    "autoHideMessage": false,
+    "closeableMessage": true,
+    "modes": [
+      {
+        "_id": "61b3836641f0ba30405a2d90",
+        "name": "Development",
+        "configs": {
+          "_id": "62dfaa1ecc4a8a55e4d8a02d",
+          "serverPort": 3001,
+          "clientPort": 3000,
+          "ip": "localhost"
+        }
+      }
+    ],
+    "currentMode": "61b3836641f0ba30405a2d90",
+    "theme": "",
+    "customCSS": [
+      {
+        "cssClassName": "header1",
+        "css": "{\r\n    background-color: #f7f9fb;\r\n    text-align: left;\r\n    color: #b31b6e;\r\n    font-size: 16px;\r\n    line-height: 20px;\r\n    padding: 10px 18px;\r\n    margin: 10px 0px 6px;\r\n    text-transform: uppercase;\r\n    border-bottom: #e1e8ec solid 1px;\r\n    border-top: #e1e8ec solid 1px;\r\n    font-weight: 700;\r\n}"
+      },
+      {
+        "cssClassName": "paymentHeader",
+        "css": "{ background-color: #f7f9fb;\n  \n    color: #b31b6e;\n    font-size: 16px;\n    line-height: 20px;\n   \n \n  \n    border-bottom: #e1e8ec solid 1px;\n    border-top: #e1e8ec solid 1px;\n \n    width:100%;\n    }"
+      },
+      {
+        "cssClassName": "TitleButtonStyling",
+        "css": "{\r\n    background-color: #fff;\r\n    color: #000;\r\n    font-size: 12px;\r\n    line-height: 14px;\r\n    padding: 5px 10px;\r\n    letter-spacing: 1px;\r\n    border-radius: 3px;\r\n    margin: 0px 0px 10px 12px;\r\n    text-align: center;\r\n    font-weight: 300;\r\n    float: right;\r\n    -moz-box-shadow: -2px 0 2px #ccc;\r\n    -webkit-box-shadow: -2px 0 2px #ccc;\r\n    box-shadow: -2px 0 2px #ccc;\r\n}"
+      },
+      {
+        "cssClassName": "CardHeaderContainer",
+        "css": "{\n    background-color: #f7f9fb;\n    text-align: left;\n    color: #b31b6e;\n    font-size: 16px;\n    line-height: 20px;\n    padding: 10px 18px;\n    text-transform: uppercase;\n    border-bottom: #e1e8ec solid 1px;\n    border-top: #e1e8ec solid 1px;\n    font-weight: 700;\n}"
+      },
+      {
+        "cssClassName": "textfieldLabel",
+        "css": "{\n    color: #a8a8a8;\n    padding: 10px 2px !important;\n    margin-bottom: 0px;\n    margin-top: 0px;\n    font-weight: 300;\nfont-size: 14px;\n}"
+      },
+      {
+        "cssClassName": "emptyTextField",
+        "css": "{\n    font-size: 14px;\n    font-weight: normal;\n    color: #333;\n    background-color: #fff;\n    border: 1px solid #e5e5e5;\n    box-shadow: none;\n    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;\n    -webkit-border-radius: 4px;\n    border-radius: 4px;\n}"
+      },
+      {
+        "cssClassName": "cardMainContainer",
+        "css": "{\n    padding: 0 15px;\n    border: 1px solid #e1e1e1 !important;\n    border-radius: 4px !important;\n    box-shadow: -2px 0 1px #ccc;\n\n}"
+      },
+      {
+        "cssClassName": "card_dropdown",
+        "css": "{\r\n    font-size: 14px;\r\n    font-weight: normal;\r\n    color: #333;\r\n    background-color: #fff;\r\n    box-shadow: none;\r\n    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;\r\n    border-radius: 4px;\r\n}"
+      },
+      {
+        "cssClassName": "CardButton",
+        "css": "{\n    background-color: #293642 !important;\n    font-weight: 700;font-size: 14px;\n}"
+      },
+      {
+        "cssClassName": "ButtonStyle",
+        "css": "{\r\n    \r\n    background-color: #fff;\r\n    color: #000;\r\n    font-size: 12px;\r\n    line-height: 14px;\r\n    padding: 5px 10px;\r\n    letter-spacing: 1px;\r\n    border-radius: 3px;\r\n    margin: 0px 0px 10px 12px;\r\n    text-align: center;\r\n    font-weight: 300;\r\n    float: right;\r\n    -moz-box-shadow: -2px 0 2px #ccc;\r\n    -webkit-box-shadow: -2px 0 2px #ccc;\r\n    box-shadow: -2px 0 2px #ccc\r\n}"
+      },
+      {
+        "cssClassName": "iconButtonWhite",
+        "css": "{\r\n    background-color: #fff;\r\n    color: #000;\r\n    font-size: 12px;\r\n    line-height: 14px;\r\n    padding: 5px 10px;\r\n    letter-spacing: 1px;\r\n    border-radius: 3px;\r\n    margin: 0px 0px 10px 12px;\r\n    text-align: center;\r\n    font-weight: 300;\r\n    float: right;\r\n    box-shadow: -2px 0 2px #ccc;\r\n}"
+      }
+    ],
+    "securityConfigurations": [
+      {
+        "_id": "62dfc735f7f9da29b0e98ed0",
+        "name": "Postman server",
+        "baseUrl": "https://9d688355-247d-402b-807e-67df10b019a5.mock.pstmn.io",
+        "authorizationType": "JWT",
+        "mode": "61b3836641f0ba30405a2d90",
+        "updatedAt": "2022-08-15T07:21:21.545Z",
+        "createdAt": "2022-08-15T07:21:21.545Z"
+      }
+    ],
+    "autoHideDuration": 10,
+    "components": [],
+    "triggers": [],
+    "assets": [
+      {
+        "_id": "62e240494b15d40b248e2322",
+        "name": "loginlogo.png",
+        "id": "KUbx9Htwqlp5XC_JNXgz9",
+        "url": "http://172.16.11.67:8196/assets/web/loginlogo.png",
+        "uri": "http://172.16.11.67:8196/assets/web/loginlogo.png",
+        "canvasUrl": "http://172.16.11.67:8196/assets/undefined"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "createdBy": "haseeb",
+  "updatedBy": "talib",
+  "_id": "62dff6ebcbd94c23f871d655",
+  "gitBranchName": "Sprint1",
+  "id": "rJeH27BHHnGNVtddJ4kdW",
+  "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+  "__v": 1,
+  "createdAt": "26-Jul-2022",
+  "name": "Login",
+  "services": [
+    {
+      "_id": "62e27d104b15d40b248e2d15",
+      "type": "8",
+      "command": {
+        "responseHandler": [
+          {
+            "httpStatus": 200,
+            "triggerName": "Login Screen to Dashboard",
+            "triggerId": "2kudz1yS26XNSi3V1T244"
+          }
+        ],
+        "returns": [],
+        "_id": "62e27d104b15d40b248e2d16",
+        "attributes": {
+          "loaderWidgetIds": [906070],
+          "messageWidgetIds": [906070],
+          "responseStateKey": "userProfile",
+          "url": "/login",
+          "checksum": true,
+          "encryption": true,
+          "isDeviceDetails": true,
+          "loginTrigger": false,
+          "formData": false,
+          "logoutTrigger": false,
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "channel_key": "001",
+            "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
+            "locale": "en-ltr"
+          },
+          "requestBody": [
+            {
+              "type": 1,
+              "name": "Form",
+              "key": "Username",
+              "value": "username"
+            },
+            {
+              "type": 1,
+              "name": "Form",
+              "key": "Password",
+              "value": "password"
+            }
+          ],
+          "baseURL": "62dfc735f7f9da29b0e98ed0",
+          "storeType": 3
+        },
+        "type": "1"
+      }
+    }
+  ],
+  "status": "ACTIVE",
+  "updatedAt": "28-Jul-2022"
+}
