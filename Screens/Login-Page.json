@@ -413,7 +413,7 @@
                                           },
                                           "validate": {
                                             "required": true,
-                                            "errorMsg": "This field is required"
+                                            "errorMsg": "Username is required"
                                           },
                                           "placeholder": "Username",
                                           "stateName": "username",
@@ -644,7 +644,7 @@
                                           },
                                           "validate": {
                                             "required": true,
-                                            "errorMsg": "Password is required"
+                                            "errorMsg": "Token is required"
                                           },
                                           "disableUnderline": true,
                                           "placeholder": "Token"
@@ -4092,7 +4092,7 @@
         "sm": 12,
         "xs": 12
       },
-      "validate": { "required": true, "errorMsg": "Password is required" },
+      "validate": { "required": true, "errorMsg": "Token is required" },
       "disableUnderline": true,
       "placeholder": "Token"
     },
@@ -4673,7 +4673,7 @@
         "sm": 12,
         "xs": 12
       },
-      "validate": { "required": true, "errorMsg": "This field is required" },
+      "validate": { "required": true, "errorMsg": "Username is required" },
       "placeholder": "Username",
       "stateName": "username",
       "disableUnderline": true
