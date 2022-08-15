@@ -37,7 +37,7 @@
           "layoutProperties": {
             "gridLayout": {
               "//": "Use this class to style grid layout component.",
-              "padding": "5px",
+              "padding": "0px",
               "spacing": 0
             },
             "mainContainer": "gridLayout"
@@ -51,7 +51,7 @@
           "name": "Grid layout"
         },
         "group": "Layout",
-        "type": "sidebarItem",
+        "type": "10001",
         "updatedAt": "23-Sep-2021",
         "Documentation": "<div>\n<table style=\"border-collapse: collapse; width: 99.8899%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.4024%;\">1</td>\n<td style=\"width: 48.4024%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 48.4024%;\">2</td>\n<td style=\"width: 48.4024%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 48.4024%;\">43</td>\n<td style=\"width: 48.4024%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 48.4024%;\">6</td>\n<td style=\"width: 48.4024%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 48.4024%;\">7</td>\n<td style=\"width: 48.4024%;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\nWrite your Docu7mentationtestsdfasd</div>",
         "createdAt": "24-Aug-2021",
@@ -62,11 +62,11 @@
         "projectType": "web",
         "allowedContainers": ["10001", "20030", "noLayout", "20010", "widget"],
         "component": { "content": "Grid layout", "type": "10001" },
-        "path": 0,
+        "path": "0",
         "gridProps": [
           {
             "type": "column",
-            "id": "repYN-elgoDLrh2Phmj_y",
+            "id": "xyOTCsdZe5hm2WZTjpwyw",
             "gridProps": [
               {
                 "id": "YtEDBbouCWmtLDzVx-U_H",
@@ -1584,18 +1584,27 @@
               "md": 12,
               "sm": 12,
               "xs": 12
-            },
-            "path": "0-0"
+            }
           }
         ],
-        "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
+        "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 },
+        "dimensions": {
+          "rows": 1,
+          "columns": 1,
+          "colSize0xs": 12,
+          "colSize0sm": 12,
+          "colSize0md": 12,
+          "colSize0lg": 12,
+          "colSize0xl": 12
+        },
+        "readOnly": true
       }
     ],
     "name": "General Beneficiary",
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1629,7 +1638,7 @@
       "layoutProperties": {
         "gridLayout": {
           "//": "Use this class to style grid layout component.",
-          "padding": "5px",
+          "padding": "0px",
           "spacing": 0
         },
         "mainContainer": "gridLayout"
@@ -1650,7 +1659,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1763,7 +1772,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1823,7 +1832,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1863,7 +1872,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1903,7 +1912,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -1943,7 +1952,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2030,7 +2039,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2070,7 +2079,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2119,7 +2128,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2154,7 +2163,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2229,7 +2238,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2264,7 +2273,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2299,7 +2308,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2349,7 +2358,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2388,7 +2397,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2463,7 +2472,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2498,7 +2507,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2546,7 +2555,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2582,7 +2591,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2630,7 +2639,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2666,7 +2675,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2722,7 +2731,7 @@
     "screenId": "P8AesmZNrJPP5dca3JR3f",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -2876,7 +2885,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20014",
-    "updatedBy": "ahmerjavedkhan",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]
