@@ -9,17 +9,17 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "62ea39cbf5f7674f04de0ac0",
+      "_id": "6303446febf2f444c8cefb63",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "62ea39cbf5f7674f04de0ac1",
+        "_id": "6303446febf2f444c8cefb64",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
           "responseStateKey": "accounts",
-          "url": "/fetchAccountGET",
+          "url": "/menus",
           "checksum": true,
           "encryption": true,
           "isDeviceDetails": true,
@@ -34,14 +34,13 @@
             "locale": "en-ltr"
           },
           "requestBody": [],
-          "baseURL": "62dfc735f7f9da29b0e98ed0",
-          "storeType": 2
+          "baseURL": "62dfc735f7f9da29b0e98ed0"
         },
         "type": "1"
       }
     }
   ],
   "createdAt": "03-Aug-2022",
-  "updatedAt": "03-Aug-2022",
-  "__v": 0
+  "updatedAt": "22-Aug-2022",
+  "__v": 2
 }

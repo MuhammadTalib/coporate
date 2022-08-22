@@ -5,7 +5,7 @@
     "id": 1,
     "name": "Ambit Corporate",
     "version": "1.0.0",
-    "mainComponentId": "r2GYIm_SabTQCUesudBwl",
+    "mainComponentId": "LlfZFtzO4HKsi8SNk83C6",
     "locale": "en",
     "appMode": "dev",
     "globalErrorType": "INLINE",
@@ -77,11 +77,11 @@
       {
         "_id": "62dfc735f7f9da29b0e98ed0",
         "name": "Postman server",
-        "baseUrl": "http://localhost:3005/FT",
+        "baseUrl": "http://172.16.11.67:4000",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
-        "updatedAt": "2022-08-15T07:21:21.545Z",
-        "createdAt": "2022-08-15T07:21:21.545Z"
+        "updatedAt": "2022-08-22T08:54:09.410Z",
+        "createdAt": "2022-08-22T08:54:09.410Z"
       }
     ],
     "autoHideDuration": 10,
