@@ -9,17 +9,16 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "6305fb26ce2c174dd81b20df",
+      "_id": "6305fd60ce2c174dd81b21c3",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "6305fb26ce2c174dd81b20e0",
+        "_id": "6305fd60ce2c174dd81b21c4",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
           "responseStateKey": "menusData",
-          "responseReturnValue": "body",
           "url": "/menus",
           "checksum": true,
           "encryption": true,
@@ -43,5 +42,5 @@
   ],
   "createdAt": "11-Aug-2022",
   "updatedAt": "24-Aug-2022",
-  "__v": 3
+  "__v": 4
 }
