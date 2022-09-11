@@ -149,7 +149,7 @@
     "screenId": "qTpTqMW84rSfnGXkUgZEc",
     "subType": "widget",
     "type": "10001",
-    "updatedBy": "areeb",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -197,7 +197,7 @@
     "screenId": "qTpTqMW84rSfnGXkUgZEc",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -230,7 +230,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "talib",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -278,7 +278,7 @@
     "screenId": "qTpTqMW84rSfnGXkUgZEc",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "areeb",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   },
   {
@@ -325,7 +325,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20004",
-    "updatedBy": "areeb",
+    "updatedBy": "haseeb",
     "version": "1.0.0"
   }
 ]
