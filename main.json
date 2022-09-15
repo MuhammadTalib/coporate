@@ -76,12 +76,12 @@
     "securityConfigurations": [
       {
         "_id": "62dfc735f7f9da29b0e98ed0",
-        "name": "Postman server",
+        "name": "My Local Server",
         "baseUrl": "http://172.16.11.67:4000",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
-        "updatedAt": "2022-09-11T06:44:17.788Z",
-        "createdAt": "2022-09-11T06:44:17.788Z",
+        "updatedAt": "2022-09-15T09:22:35.277Z",
+        "createdAt": "2022-09-15T09:22:35.277Z",
         "payloadEncryption": true
       }
     ],

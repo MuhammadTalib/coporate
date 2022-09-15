@@ -9,12 +9,12 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "6322ea193d0cb5418879f1b7",
+      "_id": "6322eeb663b2f021d0999682",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "6322ea193d0cb5418879f1b8",
+        "_id": "6322eeb663b2f021d0999683",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
@@ -36,7 +36,8 @@
           "requestBody": [
             { "type": 4, "name": "Static", "key": "a", "value": "a" }
           ],
-          "baseURL": "62dfc735f7f9da29b0e98ed0"
+          "baseURL": "62dfc735f7f9da29b0e98ed0",
+          "storeType": 2
         },
         "type": "5"
       }
@@ -44,5 +45,5 @@
   ],
   "createdAt": "03-Aug-2022",
   "updatedAt": "15-Sep-2022",
-  "__v": 3
+  "__v": 4
 }
