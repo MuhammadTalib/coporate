@@ -9,12 +9,12 @@
   "status": "ACTIVE",
   "services": [
     {
-      "_id": "6303446febf2f444c8cefb63",
+      "_id": "6322ea193d0cb5418879f1b7",
       "type": "8",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "6303446febf2f444c8cefb64",
+        "_id": "6322ea193d0cb5418879f1b8",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
@@ -33,7 +33,9 @@
             "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
             "locale": "en-ltr"
           },
-          "requestBody": [],
+          "requestBody": [
+            { "type": 4, "name": "Static", "key": "a", "value": "a" }
+          ],
           "baseURL": "62dfc735f7f9da29b0e98ed0"
         },
         "type": "5"
@@ -41,6 +43,6 @@
     }
   ],
   "createdAt": "03-Aug-2022",
-  "updatedAt": "11-Sep-2022",
-  "__v": 2
+  "updatedAt": "15-Sep-2022",
+  "__v": 3
 }
