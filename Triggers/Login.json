@@ -5,23 +5,23 @@
   "gitBranchName": "Sprint1",
   "id": "rJeH27BHHnGNVtddJ4kdW",
   "projectId": "62dfaa1ecc4a8a55e4d8a02b",
-  "__v": 1,
+  "__v": 4,
   "createdAt": "26-Jul-2022",
   "name": "Login",
   "services": [
     {
-      "_id": "62e27d104b15d40b248e2d15",
+      "_id": "632ad09deeedaa08d425ceb1",
       "type": "8",
       "command": {
         "responseHandler": [
           {
             "httpStatus": 200,
-            "triggerName": "Login Screen to Dashboard",
-            "triggerId": "2kudz1yS26XNSi3V1T244"
+            "triggerName": "Show Modal",
+            "triggerId": "jpVW1RzaFSBSYWKGV2v9k"
           }
         ],
         "returns": [],
-        "_id": "62e27d104b15d40b248e2d16",
+        "_id": "632ad09deeedaa08d425ceb2",
         "attributes": {
           "loaderWidgetIds": [906070],
           "messageWidgetIds": [906070],
@@ -62,5 +62,5 @@
     }
   ],
   "status": "ACTIVE",
-  "updatedAt": "11-Sep-2022"
+  "updatedAt": "21-Sep-2022"
 }
