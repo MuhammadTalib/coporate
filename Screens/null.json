@@ -1,15 +1,12 @@
 [
   {
-    "_id": "62dff6ebcbd94c23f871d64d",
+    "_id": "632abf751ed4b79320e7b408",
     "gitBranchName": "Sprint1",
-    "id": null,
+    "id": "sj1IY3K1_nDVtvwr1oBrG",
     "projectId": "62dfaa1ecc4a8a55e4d8a02b",
-    "createdAt": "2022-07-26T14:15:07.827Z",
-    "createdBy": "haseeb",
-    "updatedBy": "haseeb"
-  }
-]
-s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
+    "attributes": {
+      "widgetId": "Yvv3NNkS46SOXn150avXn",
+      "layoutProperties": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
     },
     "createdAt": "2022-09-21T07:38:29.164Z",
     "createdBy": "haseeb",
