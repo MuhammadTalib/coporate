@@ -131,7 +131,7 @@
     "screenId": "MBs8DuecZ0ZsYc1LfpCWi",
     "subType": "widget",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -179,7 +179,7 @@
     "screenId": "MBs8DuecZ0ZsYc1LfpCWi",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -222,7 +222,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]

@@ -222,7 +222,7 @@
     "screenId": "-hQQoNTFWDGmhncJ8mAR3",
     "subType": "widget",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -270,7 +270,7 @@
     "screenId": "-hQQoNTFWDGmhncJ8mAR3",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -312,7 +312,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -372,7 +372,7 @@
     "screenId": "-hQQoNTFWDGmhncJ8mAR3",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -412,7 +412,7 @@
     "screenId": "-hQQoNTFWDGmhncJ8mAR3",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -451,7 +451,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -490,7 +490,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]

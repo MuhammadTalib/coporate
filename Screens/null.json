@@ -13,7 +13,7 @@
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "component",
     "type": "20031",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -266,7 +266,7 @@
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -333,7 +333,7 @@
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -381,7 +381,7 @@
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -421,7 +421,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -469,7 +469,7 @@
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -512,7 +512,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]

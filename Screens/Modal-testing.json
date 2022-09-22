@@ -273,7 +273,7 @@
     "screenId": "T1vXQiZRbu_iikgnBr48m",
     "subType": "screen",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -328,7 +328,7 @@
     "screenId": "T1vXQiZRbu_iikgnBr48m",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -390,7 +390,7 @@
     "screenId": "T1vXQiZRbu_iikgnBr48m",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -457,7 +457,7 @@
     "screenId": "T1vXQiZRbu_iikgnBr48m",
     "subType": "component",
     "type": "10001",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -497,7 +497,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedBy": "haseeb",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]

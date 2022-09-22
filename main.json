@@ -80,9 +80,9 @@
         "baseUrl": "http://172.16.11.67:4000",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
-        "updatedAt": "2022-09-15T09:22:35.277Z",
-        "createdAt": "2022-09-15T09:22:35.277Z",
-        "payloadEncryption": true
+        "updatedAt": "2022-09-22T11:49:11.211Z",
+        "createdAt": "2022-09-22T11:49:11.211Z",
+        "payloadEncryption": false
       }
     ],
     "autoHideDuration": 10,
