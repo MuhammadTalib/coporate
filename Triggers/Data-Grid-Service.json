@@ -1,0 +1,29 @@
+{
+  "createdBy": "haseeb",
+  "updatedBy": "haseeb",
+  "_id": "632afe9beeedaa08d425d122",
+  "id": "dY-WVfrZ1GmTYFmSfG8nZ",
+  "name": "Data Grid Service",
+  "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+  "gitBranchName": "Sprint1",
+  "services": [
+    {
+      "_id": "632afee2eeedaa08d425d146",
+      "type": "11",
+      "command": {
+        "responseHandler": [],
+        "returns": [],
+        "_id": "632afee2eeedaa08d425d147",
+        "attributes": {
+          "stateName": "egweg",
+          "requestBody": [],
+          "selectedObjectBindingKey": "selectedObject123"
+        },
+        "type": "3"
+      }
+    }
+  ],
+  "createdAt": "21-Sep-2022",
+  "updatedAt": "21-Sep-2022",
+  "__v": 1
+}
