@@ -5,7 +5,7 @@
     "id": 1,
     "name": "Ambit Corporate",
     "version": "1.0.0",
-    "mainComponentId": "Jxop2lXXWB0kOqXN3YJyq",
+    "mainComponentId": "mrirEq3I-8ZDlapy9KdOQ",
     "locale": "en",
     "appMode": "dev",
     "globalErrorType": "INLINE",
@@ -93,9 +93,9 @@
         "_id": "62e240494b15d40b248e2322",
         "name": "loginlogo.png",
         "id": "KUbx9Htwqlp5XC_JNXgz9",
-        "url": "http://172.16.11.67:8196/assets/web/loginlogo.png",
-        "uri": "http://172.16.11.67:8196/assets/web/loginlogo.png",
-        "canvasUrl": "http://172.16.11.67:8196/assets/undefined"
+        "url": "http://172.16.11.67:8196/corporateAsset/web/loginlogo.png",
+        "uri": "http://172.16.11.67:8196/corporateAsset/web/loginlogo.png",
+        "canvasUrl": "http://172.16.11.67:8196/corporateAsset/undefined"
       }
     ]
   }
