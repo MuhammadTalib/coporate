@@ -80,8 +80,8 @@
         "baseUrl": "http://172.16.11.67:4000",
         "authorizationType": "JWT",
         "mode": "61b3836641f0ba30405a2d90",
-        "updatedAt": "2022-09-28T13:04:04.856Z",
-        "createdAt": "2022-09-28T13:04:04.856Z",
+        "updatedAt": "2022-09-28T13:32:56.879Z",
+        "createdAt": "2022-09-28T13:32:56.879Z",
         "payloadEncryption": false
       }
     ],
@@ -97,6 +97,7 @@
         "uri": "http://172.16.11.67:8196/corporateAsset/web/loginlogo.png",
         "canvasUrl": "http://172.16.11.67:8196/corporateAsset/undefined"
       }
-    ]
+    ],
+    "forgotPasswordScreenId": "4MRH8flEKPT17TQOesHMx"
   }
 }
