@@ -89,11 +89,31 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
             "id": "ogKL_MFVSaThSlLwbLL8f",
             "gridProps": [
               {
-                "id": "sj1IY3K1_nDVtvwr1oBrG",
-                "type": "20031",
+                "id": "89tLVn-aZeSVEV3NQP-6x",
+                "status": "ACTIVE",
+                "name": "Date picker",
+                "icon": "FaCalendarDay",
+                "group": "Form",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 3,
+                "type": "20027",
                 "attributes": {
-                  "widgetId": "Yvv3NNkS46SOXn150avXn",
+                  "name": "Calendar",
+                  "label": "efewf",
+                  "stateName": "wefwef",
+                  "format": "dd/MM/yyyy",
+                  "variant": "standard",
+                  "validate": {
+                    "required": false,
+                    "errorMsg": "",
+                    "isCalendar": true
+                  },
                   "layoutProperties": {
+                    "dateCalendar": {
+                      "//": "Use this class to style calender component."
+                    },
+                    "mainContainer": "dateCalendar",
                     "xl": 12,
                     "lg": 12,
                     "md": 12,
@@ -101,7 +121,12 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
                     "xs": 12
                   }
                 },
-                "component": { "type": "20031" }
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Date picker", "type": "20027" },
+                "event": [],
+                "path": "0-0-0"
               },
               {
                 "type": "10001",
@@ -150,53 +175,12 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
                         "component": { "content": "Button", "type": "20006" },
                         "events": [
                           {
-                            "triggerId": "rJeH27BHHnGNVtddJ4kdW",
-                            "triggerName": "Login",
-                            "serviceType": "8",
-                            "attributes": {
-                              "loaderWidgetIds": [906070],
-                              "messageWidgetIds": [906070],
-                              "responseStateKey": "userProfile",
-                              "url": "/login",
-                              "checksum": true,
-                              "encryption": true,
-                              "isDeviceDetails": true,
-                              "loginTrigger": false,
-                              "formData": false,
-                              "logoutTrigger": false,
-                              "headers": {
-                                "Content-Type": "application/json",
-                                "Accept": "application/json",
-                                "channel_key": "001",
-                                "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
-                                "locale": "en-ltr"
-                              },
-                              "requestBody": [
-                                {
-                                  "type": 1,
-                                  "name": "Form",
-                                  "key": "Username",
-                                  "value": "username"
-                                },
-                                {
-                                  "type": 1,
-                                  "name": "Form",
-                                  "key": "Password",
-                                  "value": "password"
-                                }
-                              ],
-                              "baseURL": "62dfc735f7f9da29b0e98ed0",
-                              "storeType": 3
-                            },
+                            "triggerId": "C9VAY5AImRfVpeNy7pz65",
+                            "triggerName": "Clear Form Data",
+                            "serviceType": "14",
+                            "attributes": {},
                             "type": "2",
-                            "name": "On click",
-                            "responseHandler": [
-                              {
-                                "httpStatus": 200,
-                                "triggerName": "Show Modal",
-                                "triggerId": "jpVW1RzaFSBSYWKGV2v9k"
-                              }
-                            ]
+                            "name": "On click"
                           }
                         ],
                         "path": "0-0-1-0-0"
@@ -265,7 +249,7 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
         "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
       }
     ],
-    "name": "Screen 333333",
+    "name": "Form",
     "screenId": "uGP3IOj3Pgmp22lydBURu",
     "subType": "screen",
     "type": "10001",
@@ -287,8 +271,8 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
             "sm": 12,
             "xs": 12
           },
-          "componentId": "sj1IY3K1_nDVtvwr1oBrG",
-          "componentType": "20031",
+          "componentId": "89tLVn-aZeSVEV3NQP-6x",
+          "componentType": "20027",
           "order": 1
         },
         {
@@ -502,11 +486,11 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
     "createdBy": "haseeb",
     "events": [
       {
-        "triggerId": "rJeH27BHHnGNVtddJ4kdW",
-        "triggerName": "Login",
+        "triggerId": "C9VAY5AImRfVpeNy7pz65",
+        "triggerName": "Clear Form Data",
         "name": "On click",
         "type": "2",
-        "serviceType": "8"
+        "serviceType": "14"
       }
     ],
     "icon": "FaBimobject",
@@ -515,6 +499,39 @@ s": { "xl": 12, "lg": 12, "md": 12, "sm": 12, "xs": 12 }
     "status": "ACTIVE",
     "subType": "component",
     "type": "20006",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "633702f1554784a5481dcbb5",
+    "gitBranchName": "Sprint1",
+    "id": "89tLVn-aZeSVEV3NQP-6x",
+    "projectId": "62dfaa1ecc4a8a55e4d8a02b",
+    "attributes": {
+      "name": "Calendar",
+      "label": "efewf",
+      "stateName": "wefwef",
+      "format": "dd/MM/yyyy",
+      "variant": "standard",
+      "validate": { "required": false, "errorMsg": "", "isCalendar": true },
+      "layoutProperties": {
+        "dateCalendar": { "//": "Use this class to style calender component." },
+        "mainContainer": "dateCalendar",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-09-30T14:53:37.391Z",
+    "createdBy": "talib",
+    "icon": "FaCalendarDay",
+    "name": "Date picker",
+    "screenId": "uGP3IOj3Pgmp22lydBURu",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20027",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
